@@ -25,5 +25,12 @@ namespace GameCaro
         public static int COUNT_DOWN_STEP = 100; // time increses ProcessBar
         public static int COUNT_DOWN_TIME = 10000;
         public static int COUNT_DOWN_INTERVAL = 100; // time tick
+
+        //Socket Manager IP and Port
+        public static string IP = "127.0.0.1"; //IP mặc định
+        public static int PORT = 9999;
+
+        //Độ dài Data giới hạn
+        public static int BUFFER = 1024;
     }
 }

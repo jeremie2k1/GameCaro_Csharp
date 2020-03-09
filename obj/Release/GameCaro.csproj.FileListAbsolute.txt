@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\product IT\Game_Caro_CSharp\GameCaro\GameCaro\bin\Release\GameCaro.exe.config
+C:\Users\ADMIN\Desktop\product IT\Game_Caro_CSharp\GameCaro\GameCaro\bin\Release\GameCaro.exe
+C:\Users\ADMIN\Desktop\product IT\Game_Caro_CSharp\GameCaro\GameCaro\bin\Release\GameCaro.pdb
+C:\Users\ADMIN\Desktop\product IT\Game_Caro_CSharp\GameCaro\GameCaro\obj\Release\GameCaro.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\product IT\Game_Caro_CSharp\GameCaro\GameCaro\obj\Release\GameCaro.Form1.resources
+C:\Users\ADMIN\Desktop\product IT\Game_Caro_CSharp\GameCaro\GameCaro\obj\Release\GameCaro.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\product IT\Game_Caro_CSharp\GameCaro\GameCaro\obj\Release\GameCaro.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\product IT\Game_Caro_CSharp\GameCaro\GameCaro\obj\Release\GameCaro.exe
+C:\Users\ADMIN\Desktop\product IT\Game_Caro_CSharp\GameCaro\GameCaro\obj\Release\GameCaro.pdb
